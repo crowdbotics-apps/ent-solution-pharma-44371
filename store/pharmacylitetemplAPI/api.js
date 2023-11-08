@@ -1,6 +1,6 @@
 import axios from "axios"
 const pharmacylitetemplAPI = axios.create({
-  baseURL: "https://pharmacy-lite-templ-44371.botics.co",
+  baseURL: "https://ent-solution-pharma-44371.botics.co",
   headers: { Accept: "application/json", "Content-Type": "application/json" }
 })
 function api_docs_schema_retrieve(payload) {
