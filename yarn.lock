@@ -1466,6 +1466,9 @@
     react-native-qrcode-svg "6.1.2"
     react-native-svg "12.3.0"
 
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
+  version "1.0.0"
+
 "@modules/social-login@file:./modules/social-login":
   version "1.0.0"
   dependencies:
@@ -1484,7 +1487,7 @@
 "@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview":
   version "1.0.0"
 
-"@modules/user-profile@file:./modules/user-profile/":
+"@modules/user-profile@file:./modules/user-profile":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
