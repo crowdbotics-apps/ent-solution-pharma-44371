@@ -14,7 +14,6 @@
   "dependencies": {
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
     "@babel/polyfill": "^7.12.1",
-    "@modules/login": "file:./modules/login/",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/social-login": "file:./modules/social-login/",
     "@modules/splash": "file:./modules/splash/",
